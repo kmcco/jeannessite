@@ -49,6 +49,7 @@
 .modal-open .gal-item .modal-body{
     padding: 0px;
 }
+
 .modal-open .gal-item button.close{
     position: absolute;
     width: 25px;
@@ -133,6 +134,17 @@ i.red{
     padding-top :75px;
     padding-bottom:75px;
 }
+/*
+.modal-body{
+    height: 100%;
+    width: 100%;
+    max-height: calc(100vh - 100px);
+    overflow-y: hidden;
+}*/
+/*
+.modal-content{
+    max-height: calc(100vh - 200px)
+}*/
 /*footer{
     font-family: 'Quicksand', sans-serif;
 }
