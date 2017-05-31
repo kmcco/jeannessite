@@ -111,6 +111,17 @@ p.contact-info{
 body.about p {
 	margin-top: 20px;
 }
+
+.subnav {
+	background-color: #9acfd6;
+	border-bottom: 2px #396970 solid; 
+
+}
+
+ul.ulnav {
+	list-style-type: none;
+}
+
 footer {
 	position: fixed;
 	right: 0;
