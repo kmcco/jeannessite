@@ -117,6 +117,20 @@ body.about p {
 	border-bottom: 2px #396970 solid; 
 
 }
+#special_event {
+	/*background-color: #D6A099 ;*/
+	background-color: #99D6BE;
+}
+p.event {
+	text-align: center;
+	font-size: 125%;
+}
+
+a.event{
+	font-size: 105%;
+	text-decoration: underline;
+	color: #342800;
+}
 
 
 footer {
