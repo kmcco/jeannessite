@@ -1,2 +1,4 @@
 plugins:
   - jekyll-redirect-from
+redirect_to: 
+  - http://livingartwork2005.com/
